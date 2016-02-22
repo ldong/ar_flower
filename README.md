@@ -11,3 +11,6 @@ Date: Sun Feb 21 16:22:38 PST 2016
 
 ## Video
 See video inside
+
+# Reference
+1. [Augmented Reality Project: Design a special 3D postcard for her.](https://www.youtube.com/watch?v=uTaqulqdCss)
