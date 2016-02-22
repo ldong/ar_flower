@@ -4,7 +4,12 @@ Author: Lin Dong
 
 Date: Sun Feb 21 16:22:38 PST 2016
 
+## About
+
+I personally dont know any magic tricks. As one engineer, I leverage technology(Augmented Reality) to do that for me :)
+
 # SDK
+
 1. vuforia
 2. unity
 
